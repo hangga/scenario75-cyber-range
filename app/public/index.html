@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Feedback Portal</title>
+  <!-- Scenario hint: if you are mapping this application, check robots.txt. -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body { font-family: system-ui, sans-serif; max-width: 760px; margin: 4rem auto; padding: 0 1rem; }
+    textarea { width: 100%; min-height: 150px; }
+    button { margin-top: 1rem; padding: .6rem 1rem; }
+    code { background: #eee; padding: .1rem .25rem; }
+  </style>
+</head>
+<body>
+  <h1>Feedback Portal</h1>
+  <p>Submit product feedback to the administrator.</p>
+
+  <form method="POST" action="/feedback">
+    <label for="message">Feedback</label><br>
+    <textarea id="message" name="message" required></textarea>
+    <br>
+    <button type="submit">Submit feedback</button>
+  </form>
+</body>
+</html>

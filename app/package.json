@@ -1,0 +1,14 @@
+{
+  "name": "scenario75-cyber-range",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Intentionally vulnerable Scenario75 Red vs Blue cyber range",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^5.1.0"
+  }
+}
