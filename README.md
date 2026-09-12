@@ -154,3 +154,5 @@ To restart:
 sudo docker compose -f /opt/scenario75/docker-compose.yml down
 sudo docker compose -f /opt/scenario75/docker-compose.yml up -d --build
 ```
+
+## [Full Scenario >>](https://github.com/hangga/scenario75-cyber-range/blob/main/SCENARIO.md)

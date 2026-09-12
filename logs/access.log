@@ -69,3 +69,23 @@
 192.168.65.1 - - [12/Sep/2026:13:12:37 +0000] "GET / HTTP/1.1" 200 866 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" xff="-"
 192.168.65.1 - - [12/Sep/2026:13:12:37 +0000] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 187 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" xff="-"
 192.168.65.1 - - [12/Sep/2026:13:12:37 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "http://localhost:3075/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" xff="-"
+192.168.65.1 - - [12/Sep/2026:13:21:14 +0000] "GET / HTTP/1.1" 304 0 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" xff="-"
+13:21:14 192.168.65.1 GET / 304 X-Forwarded-For: 192.168.65.1
+192.168.65.1 - - [12/Sep/2026:13:21:14 +0000] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 187 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" xff="-"
+13:21:14 192.168.65.1 GET /.well-known/appspecific/com.chrome.devtools.json 404 X-Forwarded-For: 192.168.65.1
+192.168.65.1 - - [12/Sep/2026:13:21:15 +0000] "GET / HTTP/1.1" 200 866 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" xff="-"
+13:21:15 192.168.65.1 GET / 200 X-Forwarded-For: 192.168.65.1
+192.168.65.1 - - [12/Sep/2026:13:21:15 +0000] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 187 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" xff="-"
+13:21:15 192.168.65.1 GET /.well-known/appspecific/com.chrome.devtools.json 404 X-Forwarded-For: 192.168.65.1
+192.168.65.1 - - [12/Sep/2026:13:21:20 +0000] "GET / HTTP/1.1" 200 866 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" xff="-"
+13:21:20 192.168.65.1 GET / 200 X-Forwarded-For: 192.168.65.1
+192.168.65.1 - - [12/Sep/2026:13:21:20 +0000] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 187 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" xff="-"
+13:21:20 192.168.65.1 GET /.well-known/appspecific/com.chrome.devtools.json 404 X-Forwarded-For: 192.168.65.1
+192.168.65.1 - - [12/Sep/2026:13:21:20 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "http://localhost:3075/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" xff="-"
+13:21:20 192.168.65.1 GET /favicon.ico 404 X-Forwarded-For: 192.168.65.1
+192.168.65.1 - - [12/Sep/2026:13:21:28 +0000] "GET / HTTP/1.1" 200 866 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" xff="-"
+13:21:28 192.168.65.1 GET / 200 X-Forwarded-For: 192.168.65.1
+192.168.65.1 - - [12/Sep/2026:13:21:29 +0000] "GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 187 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" xff="-"
+13:21:29 192.168.65.1 GET /.well-known/appspecific/com.chrome.devtools.json 404 X-Forwarded-For: 192.168.65.1
+192.168.65.1 - - [12/Sep/2026:13:21:29 +0000] "GET /favicon.ico HTTP/1.1" 404 150 "http://localhost:3075/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36" xff="-"
+13:21:29 192.168.65.1 GET /favicon.ico 404 X-Forwarded-For: 192.168.65.1
