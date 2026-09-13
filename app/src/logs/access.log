@@ -1,0 +1,28 @@
+18:50:15 10.10.14.50 POST /feedback 403 X-Forwarded-For: 10.10.14.50
+18:50:16 10.10.14.50 POST /feedback 201 X-Forwarded-For: 10.10.14.50
+18:51:55 10.10.14.50 GET /dashboard 200 X-Forwarded-For: 10.10.14.50 adm_sess=adm_sess_replay_demo
+18:53:10 10.10.14.50 GET /api/session/replay 200 X-Forwarded-For: U0NFTkFSSU83NXtCTFVFX0wwZ19IdW50M3JfTTRzdDNyfQ== adm_sess=adm_sess_replay_demo
+12:41:29 ::1 GET / 200
+12:41:29 ::1 GET /favicon.ico 404
+12:41:31 ::1 GET / 200
+12:41:32 ::1 GET / 200
+12:41:35 ::1 GET /.well-known/appspecific/com.chrome.devtools.json 404
+12:41:40 ::1 GET / 200
+12:41:40 ::1 GET /.well-known/appspecific/com.chrome.devtools.json 404
+12:41:40 ::1 GET /favicon.ico 404
+12:47:56 ::1 GET /robots.txt 200
+12:48:12 ::1 GET /dashboard 302
+12:48:12 ::1 GET / 200
+12:48:41 ::1 GET /dashboard 302
+12:50:29 ::1 POST /feedback 403
+12:53:24 ::1 GET / 200
+12:57:06 ::1 GET / 200
+12:57:06 ::1 GET /.well-known/appspecific/com.chrome.devtools.json 404
+12:57:06 ::1 GET /favicon.ico 404
+12:57:14 ::1 GET / 200
+12:57:14 ::1 GET /.well-known/appspecific/com.chrome.devtools.json 404
+12:57:14 ::1 GET /favicon.ico 404
+12:57:23 ::1 GET /robots.txt 304
+13:02:03 ::1 GET / 200
+13:02:03 ::1 GET / 200
+13:02:18 ::1 GET / 200

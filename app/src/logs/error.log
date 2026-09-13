@@ -1,0 +1,4 @@
+18:50:15 WAF block: blocked keyword <script> from attacker simulation
+18:53:10 Authentication bypass anomaly
+18:53:10 CRITICAL cookie reuse event: pre_mfa_session replay promoted to admin session
+12:50:29 WAF block: blocked keyword <script> from attacker simulation
