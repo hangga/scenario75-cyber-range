@@ -59,6 +59,8 @@ Logs are stored on the VM at:
 
 ## Red Team walkthrough
 
+https://github.com/user-attachments/assets/592792bc-3f97-48b6-93b5-2c5ec6489ec4
+
 1. Visit `/` and inspect the HTTP response headers.
 2. `X-Powered-By: Node.js` reveals the backend technology.
 3. Read `/robots.txt` and discover `/api/verify-mfa`.
