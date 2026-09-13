@@ -1,5 +1,7 @@
 # 🔴 Red Team Walkthrough 
 
+https://github.com/user-attachments/assets/592792bc-3f97-48b6-93b5-2c5ec6489ec4
+
 > Target: `http://localhost:3075` (lingkungan latihan/lab)
 
 ---
