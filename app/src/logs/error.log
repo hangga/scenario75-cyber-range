@@ -2,3 +2,24 @@
 18:53:10 Authentication bypass anomaly
 18:53:10 CRITICAL cookie reuse event: pre_mfa_session replay promoted to admin session
 12:50:29 WAF block: blocked keyword <script> from attacker simulation
+13:05:10 WAF block: blocked keyword <script> from attacker simulation
+13:07:13 CRITICAL cookie reuse event: pre_mfa_session replay promoted to admin session
+13:07:13 Authentication bypass anomaly
+13:14:29 WAF block: blocked keyword <script> from attacker simulation
+13:16:16 CRITICAL cookie reuse event: pre_mfa_session replay promoted to admin session
+13:16:16 Authentication bypass anomaly
+13:18:35 CRITICAL cookie reuse event: pre_mfa_session replay promoted to admin session
+13:18:35 Authentication bypass anomaly
+13:39:52 WAF block: blocked keyword <script> from attacker simulation
+13:39:59 WAF block: blocked keyword <script> from attacker simulation
+13:40:12 WAF block: blocked keyword <script> from attacker simulation
+13:40:17 WAF block: blocked keyword <script> from attacker simulation
+13:45:57 WAF block: blocked keyword <script> from attacker simulation
+13:46:00 WAF block: blocked keyword <script> from attacker simulation
+13:46:02 WAF block: blocked keyword <script> from attacker simulation
+13:46:12 WAF block: blocked keyword <script> from attacker simulation
+13:48:48 CRITICAL cookie reuse event: attacker collected pre_mfa_session
+13:49:06 CRITICAL cookie reuse event: attacker collected pre_mfa_session
+13:51:24 WAF block: blocked direct cookie access from attacker simulation
+13:52:27 WAF block: blocked keyword <script> from attacker simulation
+13:54:56 WAF block: blocked direct cookie access from attacker simulation
