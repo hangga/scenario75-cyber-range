@@ -78,6 +78,8 @@ Logs are stored on the VM at:
 SCENARIO75{RED_C00k13_MFA_Byp4ss_0wn3d}
 ```
 
+[Red Team walkthrough: Step-by-Step Guide >>](https://github.com/hangga/scenario75-cyber-range/blob/main/Red-Team-Walkthrough.md)
+
 ## Blue Team walkthrough
 
 SSH into the VM:

@@ -117,3 +117,6 @@
 13:54:29 ::1 GET /.well-known/appspecific/com.chrome.devtools.json 404
 13:54:42 ::1 GET / 200
 13:54:56 ::1 POST /feedback 403
+14:01:08 ::1 POST /feedback 403
+14:01:09 ::1 GET / 200
+14:01:10 ::1 POST /feedback 403
